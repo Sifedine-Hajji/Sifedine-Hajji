@@ -44,5 +44,3 @@ Hi there, I'm Sifedine 👋
 
 <img src="	https://img.shields.io/badge/AMD-Radeon_RX_5700XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
-
-<a href="https://app.daily.dev/ShujinSif"><img src="https://api.daily.dev/devcards/8a4770c12026431caac2c942b34cde5e.png?r=001" width="400" alt="Sifedine Hajji's Dev Card"/></a>
