@@ -5,10 +5,10 @@ Hi there, I'm Sifedine 👋
 [My portfolio](https://portfolio-project-kohl.vercel.app/)
 
 <h2 align='center'>
-  I"m a Junior Web Developer currently in training at [BeCode.org]
+  I"m a Junior Web Developer currently in training at [BruxellesFormation]
 </h2>
 <p align='center'>
-<strong>Languages and tools:</strong> HTML5, CSS3, JS, SASS, ReactJS, NEXTJS, GITHUB & MARKDOWN
+<strong>Languages and tools:</strong> GITHUB & MARKDOWN, HTML5, CSS3, JS, SASS, ReactJS, NEXTJS, ChakraUI and other Frameworks
 </p>
 
 <p align='center' style='margin-top:30px;'>
